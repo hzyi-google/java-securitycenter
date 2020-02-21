@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.119.1](https://www.github.com/googleapis/java-securitycenter/compare/v0.119.0...v0.119.1) (2020-02-21)
+
+
+### Dependencies
+
+* update dependency com.google.protobuf:protobuf-java to v3.11.4 ([ad734b5](https://www.github.com/googleapis/java-securitycenter/commit/ad734b57d316e70f338069912ca1bc3599935f24))
+* update dependency io.grpc:grpc-bom to v1.27.1 ([6a6d921](https://www.github.com/googleapis/java-securitycenter/commit/6a6d9214f86d63058360d55cf511cd29c398d77b))
+
 ## [0.119.0](https://www.github.com/googleapis/java-securitycenter/compare/v0.118.1...v0.119.0) (2020-02-12)
 
 
